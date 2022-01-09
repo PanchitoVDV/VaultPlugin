@@ -4,3 +4,6 @@ main: me.panchito.vaultplugin.VaultPlugin
 authors: [ Panchito ]
 description: Custom Vault Plugin
 website: Panchito.be
+vault:
+  description: Open a vault
+    usage: </command>
