@@ -1,0 +1,6 @@
+name: VaultPlugin
+version: '${project.version}'
+main: me.panchito.vaultplugin.VaultPlugin
+authors: [ Panchito ]
+description: Custom Vault Plugin
+website: Panchito.be
